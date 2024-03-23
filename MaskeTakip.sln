@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskeTakip", "MaskeTakip\MaskeTakip.csproj", "{8A121688-093C-48ED-90A7-44D758E606C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{92CA76C5-9873-483B-9ABA-E75BF694A24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{4EFD5A0A-78E1-438F-A33A-676860AF6C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A121688-093C-48ED-90A7-44D758E606C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A121688-093C-48ED-90A7-44D758E606C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A121688-093C-48ED-90A7-44D758E606C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A121688-093C-48ED-90A7-44D758E606C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CA76C5-9873-483B-9ABA-E75BF694A24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CA76C5-9873-483B-9ABA-E75BF694A24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CA76C5-9873-483B-9ABA-E75BF694A24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CA76C5-9873-483B-9ABA-E75BF694A24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFD5A0A-78E1-438F-A33A-676860AF6C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFD5A0A-78E1-438F-A33A-676860AF6C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFD5A0A-78E1-438F-A33A-676860AF6C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFD5A0A-78E1-438F-A33A-676860AF6C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53071AAD-2E33-43BE-9FBD-998C3B2D4AF9}
+	EndGlobalSection
+EndGlobal
